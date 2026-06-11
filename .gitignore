@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+.env
+.env.*
+*.env
+*key*.json
+*keys.json
+*secret*
+*token*
+
+dist/
+build/
+coverage/
+node_modules/
